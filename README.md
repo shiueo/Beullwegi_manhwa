@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://github.com/shiueo/Beullwegi_manhwa/blob/main/assets/icon.png?raw=true" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/shiueo/Beullwegi_manhwa/blob/main/beullwegi_manhwa/public/avatar.png?raw=true" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Beullwegi_manhwa</h3>
