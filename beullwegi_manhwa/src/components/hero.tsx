@@ -3,7 +3,7 @@ export default function Hero() {
     <div
       className="hero min-h-screen"
       style={{
-        backgroundImage: `url("shiueo_wallpaper.png")`,
+        backgroundImage: `url("sample_manhwa.png")`,
       }}
     >
       <div className="hero-overlay bg-opacity-60"></div>
