@@ -36,7 +36,7 @@
 A comic website for Beullwegi 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [Typescript](https://www.typescriptlang.org/) - Strongly typed programming language that builds on JavaScript
+- [Typescript](https://www.typescriptlang.org/) - Strongly typed programming language that builds on JavaScript.
 
 ## ✍️ Authors <a name = "authors"></a>
 - [@shiueo](https://github.com/shiueo)
