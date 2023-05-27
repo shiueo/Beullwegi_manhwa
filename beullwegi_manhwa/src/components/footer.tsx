@@ -7,7 +7,7 @@ export default function Footer() {
       </div>
       <div>
         <div className="grid grid-flow-col gap-4">
-         <a href="https://twitter.com/shiueo_csh">
+          <a href="https://twitter.com/shiueo_csh">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               width="24"
@@ -45,7 +45,12 @@ export default function Footer() {
       <div>
         <p>
           For <span style={{ color: "#FF0A54" }}>블뤠기</span> by{" "}
-          <a href="https://www.youtube.com/@shiueo"><span style={{ color: "#FF0A54" }}><u>shiüo</u></span></a>, Made with ❤️
+          <a href="https://www.youtube.com/@shiueo">
+            <span style={{ color: "#FF0A54" }}>
+              <u>shiüo</u>
+            </span>
+          </a>
+          , Made with ❤️
         </p>
       </div>
     </footer>
