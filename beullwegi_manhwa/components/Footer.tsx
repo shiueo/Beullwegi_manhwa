@@ -1,6 +1,6 @@
-export default function Footer() {
+export const Footer: React.FC = () => {
   return (
-    <footer className="footer footer-center p-10 bg-base-200 text-base-content rounded">
+    <footer className="p-10 rounded footer footer-center bg-base-200 text-base-content">
       <div className="grid grid-flow-col gap-4">
         <a className="link link-hover">About me</a>
         <a className="link link-hover">Contact</a>
@@ -33,4 +33,4 @@ export default function Footer() {
       </div>
     </footer>
   );
-}
+};
