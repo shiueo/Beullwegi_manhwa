@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="flex-none">
         <ul className="menu menu-horizontal px-1">
           <li>
-            <a>작품들</a>
+            <a href="/contents">작품들</a>
           </li>
         </ul>
       </div>
