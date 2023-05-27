@@ -4,8 +4,8 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "SLANT",
-  description: "An engaging and stimulating puzzle game to challenge you!",
+  title: "블뤠기의 만화방",
+  description: "블뤡블뤡",
 };
 
 export default function RootLayout({
