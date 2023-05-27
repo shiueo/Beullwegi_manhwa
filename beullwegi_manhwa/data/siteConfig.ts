@@ -3,7 +3,7 @@ const siteConfig: SiteConfig = {
   avatar: "/avatar.png",
   siteUrl: "https://beullwegi-manhwa.vercel.app/",
   siteName: "블뤠기의 만화방",
-  siteDescription: "shiüo's Blog",
+  siteDescription: "블뤠기의 만화방",
   siteThumbnail: "/og-image.png",
   nav: [
     { label: "Posts", href: "/posts" },
