@@ -1,34 +1,44 @@
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Falexcarpenter%2Fnextjs-mdx-blog-theme)
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://github.com/shiueo/Beullwegi_manhwa/blob/main/assets/icon.png?raw=true" alt="Project logo"></a>
+</p>
 
-# nextjs-mdx-blog-theme
+<h3 align="center">Beullwegi_manhwa</h3>
 
-- **View**: [demo site](https://nextjs-mdx-blog-theme.vercel.app/)
-- **Framework**: [Next.js](https://nextjs.org/)
-- **Deployment**: [Vercel](https://vercel.com)
-- **Content**: [MDX](https://github.com/mdx-js/mdx)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+<div align="center">
 
-## Running Locally
+<p>  <a href=""><img src="https://img.shields.io/badge/status-active-success.svg" alt="Status"></a> 
+  <a href="https://github.com/kylelobo/The-Documentation-Compendium/issues"><img src="https://img.shields.io/github/issues/shiueo/Beullwegi_manhwa.svg" alt="GitHub Issues"></a>
+  <a href="https://github.com/kylelobo/The-Documentation-Compendium/pulls"><img src="https://img.shields.io/github/issues-pr/shiueo/Beullwegi_manhwa.svg" alt="GitHub Pull Requests"></a>
+  <a href="/LICENSE"><img src="https://img.shields.io/github/license/shiueo/Beullwegi_manhwa" alt="License"></a></p>
 
-```bash
-$ git clone https://github.com/alexcarpenter/nextjs-mdx-blog-theme
-$ cd nextjs-mdx-blog-theme
-$ npm install
-$ npm run dev:watch
-```
 
-## Styling
+</div>
 
-To organize Tailwind CSS light and dark styles on elements, we make use of `cx` utility as an array. The first string contains the base styles, the second string is for light mode styles, and lastly the third string is for dark mode styling.
+---
 
-```jsx
-import { cx } from '@/lib/utils'
+<p align="center">A comic website for Beullwegi 
+     <br>  
+</p>
 
-<div
-  className={cx(
-    'p-4', // base styles
-    'text-gray-900', // light mode styles
-    'dark:text-gray-50'. // dark mode styles
-  )}
-/>
-```
+## 📝 Table of Contents
+- [About](#about)
+- [Getting Started](#getting_started)
+- [Deployment](#deployment)
+- [Usage](#usage)
+- [Built Using](#built_using)
+- [TODO](../TODO.md)
+- [Contributing](../CONTRIBUTING.md)
+- [Authors](#authors)
+- [Acknowledgments](#acknowledgement)
+
+## 😌 About <a name = "about"></a>
+A comic website for Beullwegi 
+
+## ⛏️ Built Using <a name = "built_using"></a>
+- [Typescript](https://www.typescriptlang.org/) - Strongly typed programming language that builds on JavaScript
+
+## ✍️ Authors <a name = "authors"></a>
+- [@shiueo](https://github.com/shiueo)
+
+See also the list of [contributors](https://github.com/shiueo/Beullwegi_manhwa/contributors) who participated in this project.
