@@ -1,8 +1,8 @@
 import type { SiteConfig } from "@/lib/types";
 const siteConfig: SiteConfig = {
   avatar: "/avatar.png",
-  siteUrl: "https://shiueo-ps.vercel.app",
-  siteName: "shiüo PS",
+  siteUrl: "https://beullwegi-manhwa.vercel.app/",
+  siteName: "블뤠기의 만화방",
   siteDescription: "shiüo's Blog",
   siteThumbnail: "/og-image.png",
   nav: [

@@ -40,33 +40,6 @@ export const Page: React.FC<PageProps> = ({
           content={`${siteConfig.siteUrl}${metaThumbnail}`}
         />
       </Head>
-      <header
-        className={cx(
-          "mb-8 pb-8 border-b",
-          "border-gray-200",
-          "dark:border-gray-700"
-        )}
-      >
-        {date ? (
-          <time
-            className={cx("block mb-2", "text-gray-500", "dark:text-gray-400")}
-          >
-            {formatDate(date)}
-          </time>
-        ) : null}
-        <h1 className="font-bold text-3xl">{title}</h1>
-        {description ? (
-          <div className="mt-4">
-            <Prose>
-              {typeof description === "string" ? (
-                <p>{description}</p>
-              ) : (
-                description
-              )}
-            </Prose>
-          </div>
-        ) : null}
-      </header>
       {children}
     </>
   );
