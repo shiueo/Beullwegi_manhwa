@@ -4,6 +4,11 @@ export default function Navbar() {
   <div className="flex-1">
     <a className="btn btn-ghost normal-case text-xl">블뤠기의 만화방</a>
   </div>
+  <div className="flex-none">
+    <ul className="menu menu-horizontal px-1">
+      <li><a>작품들</a></li>
+    </ul>
+  </div>
   <div className="flex-none gap-2">
     <div className="dropdown dropdown-end">
       <label tabIndex={0} className="btn btn-ghost btn-circle avatar">
